@@ -1,0 +1,1 @@
+{"version":3,"file":"workout.d.ts","sourceRoot":"","sources":["../../src/models/workout.ts"],"names":[],"mappings":"AAEA,MAAM,WAAW,QAAQ;IACvB,IAAI,EAAE,MAAM,CAAC;IACb,QAAQ,EAAE,MAAM,CAAC;IACjB,eAAe,EAAE,MAAM,CAAC;IACxB,UAAU,EAAE,MAAM,CAAC;IACnB,aAAa,EAAE,MAAM,EAAE,CAAC;IACxB,WAAW,EAAE,MAAM,CAAC;CACrB;AAcD,eAAO,MAAM,OAAO;;OAA4C,CAAC"}
